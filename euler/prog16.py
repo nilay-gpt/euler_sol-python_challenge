@@ -1,7 +1,6 @@
 def main():
     l=[]
     x1=pow(2,1000)
-    #print x1
     x2=map(int,str(x1))
     x3=sum(x2)
     print x3
